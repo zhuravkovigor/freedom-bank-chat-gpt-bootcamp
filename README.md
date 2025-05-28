@@ -117,36 +117,18 @@ We love contributions! Here's how you can help make this project even more aweso
 4. 📤 Push to your branch: `git push origin feature/amazing-feature`
 5. 🎯 Open a Pull Request
 
-## 🎯 Roadmap (What's Coming Next)
-
-- [ ] 🌙 Dark/Light theme toggle
-- [ ] 📤 Export conversations
-- [ ] 🔊 Voice input/output
-- [ ] 🏷️ Message tagging and search
-- [ ] 📊 Usage analytics
-- [ ] 🔐 User authentication
-- [ ] 💾 Cloud sync for conversations
-
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE) 📄
 
 ## 🙏 Acknowledgments
 
-- Thanks to OpenAI for providing amazing AI capabilities 🤖
+- Thanks to Open Router for providing amazing AI capabilities 🤖
 - The React community for building incredible tools ⚛️
 - All the open-source contributors who make projects like this possible 🌟
-
-## 📞 Support & Contact
-
-Found a bug? Have a feature request? Want to say hi?
-
-- 🐛 [Open an issue](../../issues)
-- 💡 [Request a feature](../../issues/new)
-- 💬 Start a discussion
 
 ---
 
 Made with ❤️ and lots of ☕ by developers who believe in the power of AI and great user experiences!
 
-**Happy Chatting! 🎉**
+**Happy Coding! 🎉**
