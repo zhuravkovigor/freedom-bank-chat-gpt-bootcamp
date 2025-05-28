@@ -7,6 +7,7 @@
 ## 🚀 What's This About?
 
 Welcome to the **React Chat GPT Wrapper** – your gateway to seamless AI conversations! This project provides a sleek, user-friendly interface that wraps around GPT models, making AI interactions as smooth as butter. Whether you're brainstorming ideas, getting coding help, or just having a friendly chat with AI, this app has got you covered!
+Project created as a practice for students in Freedom Bank
 
 ## ✨ Features That'll Make You Smile
 
@@ -106,16 +107,6 @@ Boom! 💥 You're ready to chat with AI!
 ├── 📂 public/                     # Static assets
 └── 📂 build/                      # Production build
 ```
-
-## 🤝 Contributing (Join the Fun!)
-
-We love contributions! Here's how you can help make this project even more awesome:
-
-1. 🍴 Fork the repository
-2. 🌿 Create a feature branch: `git checkout -b feature/amazing-feature`
-3. ✍️ Make your changes and commit: `git commit -m 'Add amazing feature'`
-4. 📤 Push to your branch: `git push origin feature/amazing-feature`
-5. 🎯 Open a Pull Request
 
 ## 📜 License
 
